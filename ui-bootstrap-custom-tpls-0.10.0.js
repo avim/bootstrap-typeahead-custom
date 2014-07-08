@@ -206,7 +206,7 @@ angular.module('ui.bootstrap.typeahead2', ['ui.bootstrap.position', 'ui.bootstra
           if (inputValue === modelCtrl.$viewValue && hasFocus) {
             if (matches.length > 0) {
 
-              scope.activeIdx = 0;
+              scope.activeIdx = -1;
               scope.matches.length = 0;
 
               //transform labels

@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap-typeahead-custom",
+  "version": "0.0.1",
+  "main": ["ui-bootstrap-custom-0.10.0.js", "ui-bootstrap-custom-0.10.0.min.js", "ui-bootstrap-custom-tpls-0.10.0.js", "ui-bootstrap-custom-tpls-0.10.0.min.js"],
+  "location": "https://github.com/avim/bootstrap-typeahead-custom.git",
+  "description": "",
+  "keywords": [
+    "",
+  ],
+  "ignore": [
+    "**/.*"
+  ]
+}
